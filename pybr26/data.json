@@ -1,6 +1,45 @@
 {
   "hangouts": [
     {
+      "date": "13-10-2026",
+      "places": [
+        {
+          "tag": "A Sinuca",
+          "name": "Bola 8 Snooker Bar",
+          "description": "Sinuquinha nos INGLESES",
+          "description_symbol": "local_bar",
+          "food_options": {
+            "traditional": true,
+            "vegetarian": false,
+            "vegan": false
+          },
+          "location": {
+            "address": "Rod. Armando Calil Bulos, 6145 - 1º andar - Ingleses do Rio Vermelho, Florianópolis - SC, 88058-001",
+            "latitude": -27.437397968884543,
+            "longitude": -48.40035752226815
+          },
+          "google_maps_url": "https://maps.app.goo.gl/cBS5hfJajha77qnp8"
+        },
+        {
+          "tag": "O Choro Mulheril",
+          "name": "Bugio Trindade",
+          "description": "Música na TRINDADE",
+          "description_symbol": "local_bar",
+          "food_options": {
+            "traditional": true,
+            "vegetarian": true,
+            "vegan": true
+          },
+          "location": {
+            "address": "Servidão Cristiano Vanderlei Faria, 25 - Trindade, Florianópolis - SC, 88040-405",
+            "latitude": -27.59648651483631,
+            "longitude": -48.522588371102394
+          },
+          "google_maps_url": "https://maps.app.goo.gl/F2RHXBGxN1F5A8dM8"
+        }
+      ]
+    },
+    {
       "date": "14-10-2026",
       "places": [
         {
