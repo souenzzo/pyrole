@@ -7,7 +7,7 @@
           "tag": "A Sinuca",
           "name": "Bola 8 Snooker Bar",
           "description": "Sinuquinha nos INGLESES",
-          "description_symbol": "local_bar",
+          "description_symbol": "counter_8",
           "food_options": {
             "traditional": true,
             "vegetarian": false,
@@ -24,7 +24,7 @@
           "tag": "O Choro Mulheril",
           "name": "Bugio Trindade",
           "description": "Música na TRINDADE",
-          "description_symbol": "local_bar",
+          "description_symbol": "music_note_2",
           "food_options": {
             "traditional": true,
             "vegetarian": true,
@@ -58,6 +58,28 @@
             "longitude": -48.453656372039596
           },
           "google_maps_url": "https://maps.app.goo.gl/2dG1fz3MCnsyM1Dq8"
+        }
+      ]
+    },
+    {
+      "date": "15-10-2026",
+      "places": [
+        {
+          "tag": "A Comida Diferente",
+          "name": "Restaurante Guacamole Cocina Mexicana",
+          "description": "Comida mexicana com desconto de 15%",
+          "description_symbol": "restaurant",
+          "food_options": {
+            "traditional": true,
+            "vegetarian": true,
+            "vegan": true
+          },
+          "location": {
+            "address": "Av. Jorn. Rubéns de Arruda Ramos, 2006 - Centro, Florianópolis - SC, 88015-702",
+            "latitude": -27.58619064068073,
+            "longitude": -48.550738078378835
+          },
+          "google_maps_url": "https://maps.app.goo.gl/svtHqw7JwnrRqJfK6"
         }
       ]
     }
