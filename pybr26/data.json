@@ -68,7 +68,7 @@
           "tag": "A Comida Diferente",
           "name": "Restaurante Guacamole Cocina Mexicana",
           "description": "Comida mexicana com desconto de 15%",
-          "description_symbol": "restaurant",
+          "description_symbol": "avocado_bean",
           "food_options": {
             "traditional": true,
             "vegetarian": true,
