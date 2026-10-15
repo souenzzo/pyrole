@@ -340,6 +340,11 @@
                     class="material-symbols-outlined text-primary-fixed text-sm">{{ place.description_symbol }}</span>
                   {{ place.description }}
                 </p>
+                {% if place.start_time %}
+                <p class="font-body-md text-body-md text-on-surface-variant flex items-center gap-2">
+                  A partir das {{ place.start_time }}
+                </p>
+                {% endif %}
               </div>
               <div class="flex flex-col sm:flex-row gap-2 w-full lg:w-auto">
                 <a

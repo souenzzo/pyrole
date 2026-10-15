@@ -69,6 +69,7 @@
           "name": "Restaurante Guacamole Cocina Mexicana",
           "description": "Comida mexicana com desconto de 15%",
           "description_symbol": "avocado_bean",
+          "start_time": "18:00",
           "food_options": {
             "traditional": true,
             "vegetarian": true,
