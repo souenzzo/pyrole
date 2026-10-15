@@ -35,6 +35,7 @@ class Place:
     food_options: FoodOptions
     location: Location
     google_maps_url: str
+    start_time: str | None = None
 
     @computed_field
     def uber_deeplink(self) -> str:
@@ -79,3 +80,4 @@ class FoodOptions:
     traditional: bool
     vegetarian: bool
     vegan: bool
+
