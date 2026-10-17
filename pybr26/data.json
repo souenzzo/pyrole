@@ -106,6 +106,29 @@
           "google_maps_url": "https://maps.app.goo.gl/rrMVvmvKZG2R8UKZ8"
         }
       ]
+    },
+    {
+      "date": "17-10-2026",
+      "places": [
+        {
+          "tag": "Almoço",
+          "name": "Made in floripa - Vila Futuro Ingleses",
+          "description": "Feijoada promocional sexta feira",
+          "description_symbol": "soup_kitchen",
+          "start_time": "12:00",
+          "food_options": {
+            "traditional": true,
+            "vegetarian": true,
+            "vegan": true
+          },
+          "location": {
+            "address": "Rua Luiz Elias Daux, 40 - Ingleses do Rio Vermelho, Florianópolis - SC, 88058-512",
+            "latitude": -27.4342484,
+            "longitude": -48.4039623
+          },
+          "google_maps_url": "https://maps.app.goo.gl/rrMVvmvKZG2R8UKZ8"
+        }
+      ]
     }
   ]
 }
